@@ -1,0 +1,4 @@
+interface:
+  display_name: "CCS Cap-Corner Stone"
+  short_description: "คิด ตรวจ และต่อยอดโครงการตามหลัก CCS"
+  default_prompt: "ใช้ $ccs-cap-corner-stone ตรวจโครงการนี้จากหลักฐานที่มี แล้ววางแผนต่อยอดรอบถัดไป"
