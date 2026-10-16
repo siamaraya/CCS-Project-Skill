@@ -1,4 +1,4 @@
 interface:
   display_name: "CCS Cap-Corner Stone"
-  short_description: "คิด ตรวจ และต่อยอดโครงการตามหลัก CCS"
-  default_prompt: "ใช้ $ccs-cap-corner-stone ตรวจโครงการนี้จากหลักฐานที่มี แล้ววางแผนต่อยอดรอบถัดไป"
+  short_description: "ประเมินความเป็นไปได้ ความยั่งยืน และทางต่อยอดตาม CCS"
+  default_prompt: "ใช้ $ccs-cap-corner-stone ประเมินโครงการนี้จากหลักฐาน ตรวจความเป็นไปได้และความยั่งยืน เสนอตัวชี้วัดกับทางต่อยอด และยกกรณีจริงที่ใกล้เคียงพร้อมแหล่งอ้างอิง"

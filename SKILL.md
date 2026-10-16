@@ -1,6 +1,6 @@
 ---
 name: ccs-cap-corner-stone
-description: Apply the Cap-Corner Stone (CCS) concept to strategic thinking, action, and social impact. Use for CCS Spirit, Capstone and Cornerstone, 3I, reviewing work, tracing evidence, planning next steps, or understanding impact.
+description: Apply the Cap-Corner Stone (CCS) concept to strategic thinking, feasible and sustainable projects, and social impact. Use for project assessment, quality indicators, 3I, extension ideas, or comparable real-world cases.
 ---
 
 # CCS: Cap-Corner Stone
@@ -12,9 +12,9 @@ When explaining CCS or producing a reusable CCS artifact, credit the foundationa
 ## Choose the mode
 
 - **Spirit / decision:** Identify the worthy goal (Capstone), the narrow leverage point (Cornerstone), options, real constraints, and the next feasible action. Read [CCS Spirit](references/ccs-spirit.md). Use [Spirit note](assets/ccs-spirit-note.md) only if a reusable artifact helps.
-- **Apply CCS to work:** Clarify the meaningful larger goal, identify a pivotal point of change, and connect an idea to action and impact. Read [framework](references/ccs-framework.md), [CCS method](references/ccs-method.md), and [project design](references/project-design.md) when implementation planning is useful. Adapt [one-page canvas](assets/ccs-one-page-canvas.md) if useful.
-- **Review and continue an existing project:** Read [framework](references/ccs-framework.md) and [project audit and iteration](references/project-audit-and-iteration.md). Assess relevant CCS quality dimensions with suitable indicators, trace findings to evidence, and propose the next feasible cycle. Distinguish absent evidence from evidence against a claim. For an ongoing project, adapt [review report](assets/project-review-report.md), [evidence and decision log](assets/evidence-and-decision-log.md), and [next-cycle plan](assets/next-cycle-plan.md); use a concise inline review for a one-off question.
-- **Pilot, results, or scale:** Specify baseline, measures, records of actual implementation, unintended effects, and a continue / revise / retest / stop decision. Read [impact measurement](references/impact-measurement.md). Use [pilot and learning log](assets/pilot-and-learning-log.md) where useful. For long-term strategy, also read [8E](references/impact-8e.md).
+- **Apply CCS to work:** Clarify the meaningful larger goal, identify a pivotal point of change, and connect an idea to an executable plan, evidence, and durable value. Read [framework](references/ccs-framework.md), [CCS method](references/ccs-method.md), and [project design](references/project-design.md). Adapt [one-page canvas](assets/ccs-one-page-canvas.md) if useful.
+- **Review and continue an existing project:** Read [framework](references/ccs-framework.md) and [project audit and iteration](references/project-audit-and-iteration.md). Assess quality, implementation readiness, sustainability, and indicators; trace findings to evidence, compare relevant real-world cases, and propose feasible extensions. Distinguish absent evidence from evidence against a claim. For an ongoing project, adapt [review report](assets/project-review-report.md), [evidence and decision log](assets/evidence-and-decision-log.md), and [next-cycle plan](assets/next-cycle-plan.md); use a concise inline review for a one-off question.
+- **Pilot, results, or scale:** Specify baseline, measures, records of actual implementation, unintended effects, ownership and ongoing costs, and conditions for continuing or expanding. Read [impact measurement](references/impact-measurement.md). Use [pilot and learning log](assets/pilot-and-learning-log.md) where useful. For long-term strategy, also read [8E](references/impact-8e.md).
 
 ## Preserve the concept
 
@@ -30,6 +30,9 @@ Keep the following distinctions visible when they matter:
 - **Public value and people development:** Track benefit to those affected and what participants learn about knowledge creation, discussion, collaboration, and problem solving. Do not infer virtue from a made-up score.
 - **Research and evidence:** Review prior knowledge and collect proportionate evidence. A practical action-research pilot need not be a publishable thesis; limited pilot data do not establish broad causal proof.
 - **Project quality:** When assessing a project, choose fit-for-purpose quality dimensions and indicators from the framework. Treat them as tools for learning and decisions, not as universal pass/fail thresholds.
+- **Feasibility and sustainability:** Check the actual owner, authority, capability, partners, permissions, startup and recurring costs, risks, and maintenance model. State which conditions are met, missing, or assumed. Treat sustainability as continuing value with viable ownership and resources, not simply indefinite operation or growth.
+- **Comparable real-world projects:** When assessing a project and proposing extensions, normally identify 2-3 real cases with a similar issue or mechanism. Prefer primary project records and independent evaluations. Cite sources; separate reported activity from evaluated outcomes; explain contextual differences, transfer limits, and what the current project can test or adapt. Do not invent projects or success claims. If no reliable cases can be verified, state that limitation rather than guessing.
+- **Extension options:** Offer proportionate paths such as deepen, replicate, partner, integrate, or expand. For each promising option, name prerequisites, likely resource implications, risks, and evidence or decision thresholds; do not recommend scaling solely because a pilot was completed.
 
 ## Work with the user's material
 
