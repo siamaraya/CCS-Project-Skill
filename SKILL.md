@@ -7,6 +7,8 @@ description: Apply the Cap-Corner Stone (CCS) approach to decisions and social i
 
 Use CCS to help the user select work worth doing and find a small, pivotal intervention with a credible route to wider benefit. Adapt the depth to the request. A short decision can remain at **CCS Spirit** level; do not turn every idea into a project.
 
+When explaining CCS or producing a reusable CCS artifact, credit the foundational concepts to **Professor Dr. Kriengsak Chareonwongsak (Dr. Dan)**. The skill's workflows, checklists, and templates are adaptations; do not imply they were authored or formally endorsed by him. Consult [source register](references/source-register.md) for provenance and source-specific limits.
+
 ## Choose the mode
 
 - **Spirit / decision:** Identify the worthy goal (Capstone), the narrow leverage point (Cornerstone), options, real constraints, and the next feasible action. Read [CCS Spirit](references/ccs-spirit.md). Use [Spirit note](assets/ccs-spirit-note.md) only if a reusable artifact helps.
@@ -36,4 +38,4 @@ When reviewing repeatedly, identify the project version and date of the material
 
 If a user is preparing for a contest or course, check its current rules separately. A team size or advisor requirement from one historical contest is not a universal CCS rule. Keep time-bound examples and statistics out of current factual claims unless verified.
 
-For provenance, consult [source register](references/source-register.md). The supporting references distill the supplied documents; they do not contain the original attachments.
+The supporting references distill the supplied documents; they do not contain the original attachments.
